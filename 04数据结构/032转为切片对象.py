@@ -1,0 +1,5 @@
+a = list(range(10))
+b = list(range(10,20))
+s = slice(2,8)
+print(a[s])
+print(b[s])

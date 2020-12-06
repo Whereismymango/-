@@ -1,0 +1,1 @@
+print('I am {},my age is{}'.format('sgc','30'))

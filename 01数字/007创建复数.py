@@ -1,0 +1,1 @@
+print([complex(i,7) for i in list(range(10))])
